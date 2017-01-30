@@ -36,6 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="details.html" />
     <Content Include="index.html" />
     <Content Include="Stylesheet1.css" />
   </ItemGroup>
